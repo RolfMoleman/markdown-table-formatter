@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/nvuillam/markdown-table-formatter#readme",
   "dependencies": {
-    "debug": "^4.4.0",
+    "debug": "^4.4.1",
     "find-package-json": "^1.2.0",
     "fs-extra": "^11.3.0",
     "glob": "^10.4.5",
